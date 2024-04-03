@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <div> display JSX </div>;
+    <div> JSX is cool!</div>;
     </>
   )
 }
